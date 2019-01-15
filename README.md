@@ -1,3 +1,3 @@
 # locale-id
 
-locale untuk negara Indonesia, Silhkan gunakan
+locale untuk negara Indonesia, Silahkan gunakan
